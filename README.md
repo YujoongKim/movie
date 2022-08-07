@@ -2,8 +2,8 @@
 
 ## Back End
 
-This is an API microservice that performs saving favorite movie in the DB. It supports 
-the following calls:
+This is an application that performs searshing popular 250 movies information saving favorite movie in the DB. 
+It supports the following calls:
 
 ## Favorite Movies List (GET): 
 
